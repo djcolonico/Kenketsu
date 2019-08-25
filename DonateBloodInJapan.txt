@@ -36,4 +36,22 @@ If the following has applied to you in the last 6 months
 Had sexual contact with someone random or with a new person of the opposite sex
 
 (b) 男性(だんせい)どうしの性的接触(せいてきせっしょく)があった
-Had sex with another man (if you’re a man)
+Had sexual contact with another man (if you’re a man)
+
+(c)麻薬(まやく)、覚(かく)せい剤(ざい)を使用(しよう)した
+Have used drugs or stimulants
+(d) 上記(じょうき)(a)～(c)に該当(がいとう)する人(ひと)と性的接触(せいてきせっしょく)をもった
+Had sexual contact with someone where points (a)～(c) may apply to them
+
+今(いま)までに下記(かき)に該当(がいとう)する方(かた)
+If the following has applied to you up to now
+
+// double check translation
+(a)輸血(ゆけつ)（自己血(じこけつ)を除(のぞ)く）や臓器(ぞうき)の移植(いしょく)を受(う)けた
+Have received a blood transfusion (not including your own blood) or organ transplant
+
+(b)ヒト(ひと)由来(ゆらい)プラセンタ注射楽(ちゅうしゃぐすり)を使用(しよう)した
+Have received human placenta injections
+
+(c)梅毒(ばいどく)、C(Ｃ)型肝炎(がたかんえん)、マラリア、シャーガス病気(びょうき)にかかった
+Have had syphilis, hepatitis C, malaria or Chagas’ disease
