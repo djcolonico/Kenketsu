@@ -1,5 +1,8 @@
 How to donate blood in Japan (translation of blood donation forms)
 
+お願(ねが)い！
+Please!
+
 責任(せきにん)ある献血(けんけつ)とは
 Responsibility when donating blood
 
@@ -10,7 +13,7 @@ Let’s do our duty to donate blood for patients who need blood transfusions.
 If you have to refrain from donating blood
 
 ※エイズ(えいず)などの検査(けんさ)を目的(もくてき)に献血(けんけつ)を絶対(ぜったい)にしないこと、問診(もんしん)に正(ただ)しく答(こた)えて献血(けんけつ)していただくこと
-For people who can’t donate blood because of religion or people who want to answer the interview questions correctly
+For people who can’t donate blood because of religion or people who want to answer the medical interview questions correctly
 
 次(つぎ)に該当(がいとう)する方(かた)は献血(けんけつ)をご遠慮(えんりょ)ください
 If the following applies to you please refrain from donating blood
@@ -73,3 +76,30 @@ If you were diagnosed with Zika virus and it hasn’t been more than 1 month sin
 
 次(つぎ)に該当(がいとう)する方(かた)は職員(しょくいん)にお申(もう)し出(で)ください
 If the following applies to you please tell a staff member
+
+３日以内(にちいない)に楽(くすり)を服用(ふくよう)、使用(しよう)した方(かた)
+You’re taking or have taken medicine within the last 3 days
+
+１年以内(ねんいない)に予防接種(よぼうせっしゅ)に受(う)けた方(かた)
+You’ve had a vaccination within the last year
+
+海外滞在歴(かいがいたいざいれき)について
+Regarding your history staying overseas
+
+３年以内(ねんいない)に外国(がいこく)（ヨーロッパ、米国(べいこく)、カナダを除(のぞ)く）に滞在(たいざい)した方(かた)
+Within the last 3 years you’ve stayed in a foreign country (excluding Europe, America and Canada)
+
+昭和(しょうわ)５５年以降(ねんいこう)、ヨーロッパ、サウジアラビアに通算(つうさん)１ヵ(か)月以上滞在(げついじょうたいざい)した方
+Since 1980 you’ve stayed in Europe or Saudi Arabia for a total of 1 month or more
+
+上記(じょうき)に該当(がいとう)されない方(かた)でも、問診内容(もんしんないよう)により献血(けんけつ)をお断(ことわ)りすることがあります。
+Even if the above doesn’t apply to you, we may still refuse your blood donation during the medical interview.
+
+２０１８年(ねん)１０月版(がつはん)
+October 2018 version
+
+献血前(けんけつまえ)にお読(よ)みください
+Please read the following before you donate blood
+
+献血前(けんけつまえ)に
+Before donating blood
