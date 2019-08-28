@@ -103,3 +103,15 @@ Please read the following before you donate blood
 
 献血前(けんけつまえ)に
 Before donating blood
+
+お名前(なまえ)、生年月日(せいねんがっぴ)、住所(じゅうしょ)、電話番号等(でんわばんごうなど)は正確(せいかく)にお答(こた)えください。
+Please accurately answer details like your name, date of birth, address and phone number.
+
+初(はじ)めて献血(けんけつ)をされる方(かた)は、ご本人(ほんにん)の確認(かくにん)のため、運転免許証(うんてんめんきょしょう)などの提示(ていじ)をお願(ねが)いします。
+If you're donating for the first time, please bring some identification like your driver’s license to confirm who you are.
+
+問診項目(もんしんこうもく)には正確(せいかく)にお答(こた)えください。事実(じじつ)と異(こと)なる回答(かいとう)をされた場合(ばあい)、輸血(ゆけつ)を受(う)けた患者(かんじゃ)さんに深刻(しんこく)な状況(じょうきょう)をもたらす場合(ばあい)があります。
+Please answer questions in the medical interview truthfully. There have been times when patients who have received blood transfusions have become seriously ill because people have not answered these questions truthfully.
+
+献血(けんけつ)に伴(ともな)う副作用予防(ふくさようよぼう)のため、献血前(けんけつまえ)に水分(すいぶん)（スポーツドリンク等(など)）を補給(ほきゅう)してください。
+To prevent any side effects from donating blood, please drink lots of fluids (water, sports drinks etc) before your donation.
