@@ -115,3 +115,15 @@ Please answer questions in the medical interview truthfully. There have been tim
 
 献血(けんけつ)に伴(ともな)う副作用予防(ふくさようよぼう)のため、献血前(けんけつまえ)に水分(すいぶん)（スポーツドリンク等(など)）を補給(ほきゅう)してください。
 To prevent any side effects from donating blood, please drink lots of fluids (water, sports drinks etc) before your donation.
+
+献血後(けんけつあと)に高所作業(こうしょさぎょう)や激(はげ)しいスポーツ、自転車(じてんしゃ)の運転等(うんてんなど)をされる方(かた)は献血前(けんけつまえ)にお知(し)らせください。特(とく)に乗(の)り物(もの)の運転(うんてん)をされる方(かた)は、献血後(けんけつあと)に十分(じゅうぶん)な休憩(きゅうけい)（３０分以上(ぷんいじょう)）をおとりください。
+If you’re going to do things like aerial work (using a cherry picker), playing intense sports or riding a bike after you finish donating blood please let someone know. In particular, if you’re going to drive or ride a bike after you donate blood please take a sufficient break (at least 30 mins).
+
+献血時(けんけつとき)は
+When you donate blood
+
+血圧(けつあつ)や血色素量(けっしきそりょう)（ヘモグロビン濃度(のうど)）を事前(じぜん)に測定(そくてい)します。
+Before donating blood your blood pressure and hemoglobin level will be measured.
+
+２００mL・４００mL献血(けんけつ)では１０分(ぷん)から１５分位(ぷんぐらい)、成分献血(せいぶんけんけつ)では体重等(たいじゅう等)に応(おう)じて採血(さいけつ)する量(りょう)（上限(じょうげん)６００ｍLまで）が異(こと)なりますので、４０分(ふん)から９０分位(ぷんぐらい)の採血時間(さいけつじかん)がかかります。
+If you're doing a 200ml or 400ml regular whole bood donation it will take around 10-15 minutes. If you’re donating other parts of your blood (platelets, plasma) depending on things like your weight and your donation amount (a max of 600ml) it could take between 40-90 minutes to collect your blood.
