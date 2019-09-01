@@ -127,3 +127,6 @@ Before donating blood your blood pressure and hemoglobin level will be measured.
 
 ２００mL・４００mL献血(けんけつ)では１０分(ぷん)から１５分位(ぷんぐらい)、成分献血(せいぶんけんけつ)では体重等(たいじゅう等)に応(おう)じて採血(さいけつ)する量(りょう)（上限(じょうげん)６００ｍLまで）が異(こと)なりますので、４０分(ふん)から９０分位(ぷんぐらい)の採血時間(さいけつじかん)がかかります。
 If you're doing a 200ml or 400ml regular whole bood donation it will take around 10-15 minutes. If you’re donating other parts of your blood (platelets, plasma) depending on things like your weight and your donation amount (a max of 600ml) it could take between 40-90 minutes to collect your blood.
+
+ 採血針(さいけつはり)や採血(さいけつ)バッグ等(など)は、おー人(ひと)ずつ使(つか)い捨(す)てとなっています。
+Things like your blood donation needle and blood bag are single-use and will be disposed after your donation.
