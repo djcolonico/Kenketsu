@@ -126,7 +126,7 @@ When you donate blood
 Before donating blood your blood pressure and hemoglobin level will be measured.
 
 ２００mL・４００mL献血(けんけつ)では１０分(ぷん)から１５分位(ぷんぐらい)、成分献血(せいぶんけんけつ)では体重等(たいじゅう等)に応(おう)じて採血(さいけつ)する量(りょう)（上限(じょうげん)６００ｍLまで）が異(こと)なりますので、４０分(ふん)から９０分位(ぷんぐらい)の採血時間(さいけつじかん)がかかります。
-If you're doing a 200ml or 400ml regular whole bood donation it will take around 10-15 minutes. If you’re donating other parts of your blood (platelets, plasma) depending on things like your weight and your donation amount (a max of 600ml) it could take between 40-90 minutes to collect your blood.
+If you're doing a 200ml or 400ml regular whole blood donation it will take around 10-15 minutes. If you’re donating other parts of your blood (platelets and plasma etc) depending on things like your weight and your donation amount (a max of 600ml) it could take between 40-90 minutes to collect your blood.
 
  採血針(さいけつはり)や採血(さいけつ)バッグ等(など)は、おー人(ひと)ずつ使(つか)い捨(す)てとなっています。
 Things like your blood donation needle and blood bag are single-use and will be disposed after your donation.
@@ -146,8 +146,24 @@ When they put the needle in, you feel a sharp pain or numbness/pins and needles.
 気分不良(きぶんふりょう)やめまい等(など)の症状(しょうじょう)がある場合(ばあい)。
 If you feel unwell or dizzy etc.
 
-※(こめじるし)立(た)ち上(あ)がらず、そのままの姿勢(しせい)でお知(し)らせください。
+※立(た)ち上(あ)がらず、そのままの姿勢(しせい)でお知(し)らせください。
 Without getting up, stay in your current position and let someone know.
 
 口唇(こうしん)や手指(てゆび)のしびれ感(かん)などの症状(しょうじょう)がある場合(ばあい)。
 If your lips or fingers feel numb or have pins and needles etc.
+
+※成分献血(せいぶんけんけつ)では血液(けつえき)が固(かた)まらないように抗凝固剤(こうぎょうこざい)（クエン酸(さん)ナトリウム）を使用(しよう)してるため、このような症状(しょうじょう)を起(お)こすことがあります。
+If you’re donating other parts of your blood (platelets and plasma etc) you may experience these symptoms because an anticoagulant (sodium citrate) is used to stop your blood from solidifying.
+
+皮下出血(ひかしゅっけつ)がある場合(ばあい)。
+If you have a bruise.
+
+採血針(さいけつはり)を刺(さ)したところに、跡(あと)が残(のこ)ることがあります。
+If there is mark where the needle was put in.
+
+献血(けんけつ)していただいた血液(けつえき)は
+Your donated blood
+
+// double check
+検査(けんさ)を実施(じっし)し、血液製剤(けつえきせいざい)の基準(きじゅん)に適(てき)する場合(ばあい)のみ、輸血(ゆけつ)に使用(しよう)いたします。
+Your blood will be used for blood transfusions only if it’s been inspected and meets the standards for blood based products.
