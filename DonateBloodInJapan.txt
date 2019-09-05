@@ -177,3 +177,13 @@ About requesting blood donations
 
 受付時(うけつけじ)に確認(かくにん)させていただく「献血(けんけつ)の依頼(いらい)についての応諾意思(おうだくいし)」に同意(どうい)いただいた方(かた)には、はがき、電話(でんわ)、メール、LINE等(など)より、患者(かんじゃ)さんに必要(ひつよう)な血液製剤(けつえきせいざい)を供給(きょうきゅう)するために、献血(けんけつ)のご協力(きょうりょく)をお願(ねが)いする場合(ばあい)があります。
 For people that agreed to the requesting blood consent form at the reception desk, in order to supply the necessary blood products to patients, we may ask you to help via postcard, phone, email or LINE etc. 
+
+献血当日(けんけつとうじつ)は次(つぎ)のことをお願(ねが)いいたします
+On the day you donate blood please do the following things
+
+休憩(きゅうけい)•••献血後少(けんけつあとすく)なくとも１０分以上休憩(ぷんいじょうきゅうけい)してからお帰(かえ)りください。特(とく)に乗(の)り物(もの)を運転(うんてん)される場合(ばあい)は、その前(まえ)に十分(じゅうぶん)な休憩(きゅうけい)（３０分以上(ぷんいじょう)）をおとりください。
+Breaks: after you donate blood take a break for at least 10 minutes before leaving. If you’re going to ride a bike or drive a car after your blood donation, please take a bigger break instead (at least 30 minutes). 
+
+// double check
+水分補給(すいぶんほきゅう)•••献血会場(けんけつかいじょう)内(ない)で水分(すいぶん)（２００mL以上(いじょう)）を補給(ほきゅう)し、会場(かいじょう)を出(で)てからもジュース（スポーツドリンク）やお茶(ちゃ)などで十分(じゅうぶん)な水分補給(すいぶんほきゅう)に努(つと)めてください。
+Hydration: please drink at least 200 ml of water at the blood donation centre, and after you leave please try to drink plenty of fluids (juice, sports drinks, tea etc) to keep hydrated. 
