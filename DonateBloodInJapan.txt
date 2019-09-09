@@ -187,3 +187,24 @@ Breaks: after you donate blood take a break for at least 10 minutes before leavi
 // double check
 水分補給(すいぶんほきゅう)•••献血会場(けんけつかいじょう)内(ない)で水分(すいぶん)（２００mL以上(いじょう)）を補給(ほきゅう)し、会場(かいじょう)を出(で)てからもジュース（スポーツドリンク）やお茶(ちゃ)などで十分(じゅうぶん)な水分補給(すいぶんほきゅう)に努(つと)めてください。
 Hydration: please drink at least 200 ml of water at the blood donation centre, and after you leave please try to drink plenty of fluids (juice, sports drinks, tea etc) to keep hydrated. 
+
+トイレ•••採血直後(さいけつちょくご)の排尿(はいにょう)は、失神(しっしん)を起(お)こすことがありますので座位(ざい)で行(い)ってください。
+Toilet:  people have fainted urinating straight after donating blood, so please sit down when you go to the toilet.
+
+階段(かいだん)、エレベーター•••できるだけ手(て)すりにつかまってください。
+Stairs, elevator: please hold onto the hand rails as much as possible when taking the elevator or stairs.
+
+入浴(にゅうよく)•••献血後(けんけつご)２時間以内(じかんいない)の入浴(にゅうよく)と当日(とうじつ)のサウナ(さうな)は避(よ)けてください。
+Bathing: please avoid taking a bath within two hours after donating blood or using a sauna on the day of your donation.
+
+飲酒(いんしゅ)、喫煙(きつえん)•••献血直後(けんけつちょくご)は避(よ)けてください。
+Drinking alcohol, smoking: please avoid drinking or smoking straight after donating blood. 
+
+スポーツ•••水泳(すいえい)、マラソン(まらそん)など激(はげ)しいスポーツは避(よ)けてください。
+Sports: please avoid intense sports like swimming or marathons.
+
+重労働(じゅうろうどう)•••採血側(さいけつそば)の腕(うで)に強(つよ)い力(ちから)がかからないようにしてください。
+Heavy labour: please avoid using the arm you donated with for hard work or physically demanding tasks.
+
+献血会場(けんけつかいじょう)を離(はな)れてからも、気分(きぶん)が悪(わる)くなったりまれに“失神(しっしん)（一時的(いちじてき)に意識(いしき)をなくすこと）”を起(お)こすことがあります！
+Even after leaving the blood donation centre, you could feel unwell or, more rarely, faint (you may lose your consciousness for a moment).
