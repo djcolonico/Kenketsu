@@ -225,3 +225,17 @@ You become unable to hear other noises and can only hear a ringing sound in your
 
 •目(め)の前(まえ)がチカチカしてくる。
 You start having blurry vision or seeing flickering lights.
+
+•頭(とう)がボーっとしてくる。
+You start feeling dazed.
+
+•気分(きぶん)がわるくなってくる。
+You start feeling sick.
+
+症状(しょうじょう)が現(あらわ)れたら、転倒(てんとう)を防止(ぼうし)するためすぐにしゃがむか、横(よこ)になってください。
+If symptoms start to occur, to prevent yourself from falling please crouch or lay down on your side immediately.
+
+//double check にすると
+•仰向(あおむ)けになり、足(あし)を高(たか)くして３０分程度安静(ぶていどあんせい)にすると症状(しょうじょう)は和(やわ)らぎます。
+Rest facing upwards with your legs raised for about 30 minutes to alleviate symptoms.
+If you rest facing upwards with your legs raised for about 30 minutes then your symptoms will start to alleviate.
