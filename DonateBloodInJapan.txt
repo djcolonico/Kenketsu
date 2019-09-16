@@ -290,3 +290,20 @@ Midosuji Blood Donation Room CROSS CAFÉ 0120-276759
 
 京阪枚方市駅献血(けいはんひらかたしえきけんけつ)ルーム　０１２０‐３３６７５９
 Keihan Hirakata City Station Blood Donation Room 0120-336759
+
+献血(けんけつ)バスの運行(うんこう)スケジュールや献血(けんけつ)ルームのご案内(あんない)などは大阪府赤十字血液(おおさかふせきじゅうじけつえき)センターのサイト「大阪(おおさか)　血液(けつえき)」検索(けんさく)か、右(みぎ)のＱＲコードからご覧(らん)ください。
+To see the blood donation bus schedule or learn more about blood donation rooms, please search “大阪(おおさか)　血液(けつえき)” or use the QR code on the right to go to the Osaka Prefecture Red Cross Blood Centre website.
+
+献血後(けんけつあと)のお知(し)らせ（検査結果(けんさけっか)）
+Notifications after your blood donation (examination results)
+
+// double check translation
+献血受付時(けんけつうけつけとき)に下記(かき)の２種類(しゅるい)の検査結果(けんさけっか)について、郵送(ゆうそう)による通知(つうち)のご希望(きぼう)をお伺(うかが)いしています。
+At the blood donation reception desk the following are two kinds of examination results which we hope we can notify you via mail.
+
+（検査結果(けんさけっか)は献血後(けんけつあと)１ヵ(か)月以内(げついない)に親展(しんてん)にてお届(とど)けします）
+Your examination results will be sent confidentially within 1 month after donating.
+
+// double check translation
+“ラブラッド会員(かいいん)”※の皆様(みなさま)には下記(かき)（１）の検査項目(けんさこうもく)の確認方法(かくにんほうほう)を、郵送(ゆうそう)による通知(つうち)から会員専用(かいいんせんよう)Ｗｅｂページによる閲覧(えつらん)へ変更(へんこう)いただくようお願(ねが)いしています。
+“Love lad members” - For everyone to confirm the first heading below, please view and edit the exclusive webpage sent via mail.
