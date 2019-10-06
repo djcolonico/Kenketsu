@@ -306,4 +306,20 @@ Your examination results will be sent confidentially within 1 month after donati
 
 // double check translation
 “ラブラッド会員(かいいん)”※の皆様(みなさま)には下記(かき)（１）の検査項目(けんさこうもく)の確認方法(かくにんほうほう)を、郵送(ゆうそう)による通知(つうち)から会員専用(かいいんせんよう)Ｗｅｂページによる閲覧(えつらん)へ変更(へんこう)いただくようお願(ねが)いしています。
-“Love lad members” - For everyone to confirm the first heading below, please view and edit the exclusive webpage sent via mail.
+“Love blood members” - For everyone to confirm the (1) examination items below, please view and edit the exclusive webpage sent via mail.
+
+// double check translation
+（郵送(ゆうそう)より結果(けっか)を早(はや)く確認(かくにん)でき、過去(かこ)の結果(けっか)も参照可能(さんしょうかのう)です）
+You will be able to confirm your results more quickly than post and you will also be able browse past results.
+
+※“ラブラッド会員(かいいん)”とは、複数回献血(ふくすうかいけんけつ)クラブ（愛称(あいしょう)：ラブラッド）にご登録(とうろく)いただいている献血者(けんけつしゃ)です。
+Love blood members are blood donors registered with the donated multiple times club (nickname: love blood).
+
+// double check translation
+（１）通知(つうち)している検査項目(けんさこうもく)
+Examination items you’ll be notified about
+
+・血液型検査(けつえきがたけんさ)、生化学検査(しょうかがくけんさ)・血球計数検査(けっきゅうけいすうけんさ)
+Blood type examination, biochemical examination, blood cell count examination
+
+（２）
