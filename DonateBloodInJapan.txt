@@ -322,4 +322,29 @@ Examination items you’ll be notified about
 ・血液型検査(けつえきがたけんさ)、生化学検査(しょうかがくけんさ)・血球計数検査(けっきゅうけいすうけんさ)
 Blood type examination, biochemical examination, blood cell count examination
 
-（２）
+（２） 検査(けんさ)で異常(いじょう)を認(みと)めた場合(ばあい)に通知(つうち)する項目(こうもく)
+Items you’ll be notified about if any abnormalities are observed through examinations
+
+・Ｂ型(がた)、Ｃ型肝炎(がたかんえん)ウイルス(ういるす)検査(けんさ)・梅毒検査(ばいどくけんさ)・HTLV‐１検査(けんさ)
+Hepatitis B or C examination, syphilis examination, HTLV-1 examination
+
+// double check the translation
+・T.cruzi検査（シャーガス病の安全対策の対象者のみ）
+T.cruzi examination (only people targeted from the Chagas’ disease safety measure group)
+
+// double check translation
+※検査目的の献血を防止するため、エイズウイルス（HIV）検査については、通知していません。
+To prevent blood donations from being used for examinations, you won’t be notified about the HIV examination.
+
+// double check translation
+検査目的(けんさもくてき)の献血(けんけつ)をお断(ことわ)りする理由(りゆう)
+Reasons your blood may be refused for examinations
+
+エイズウイルスや肝炎(かんえん)ウイルスの感染初期(かんせんしょき)には、強(つよ)い感染力(かんせんちから)を持(も)つにもかかわらず、最新(さいしん)の検査技術(けんさぎじゅつ)を用(もち)いても検出(けんしゅつ)できない期間(きかん)があります。
+Although the early stages of AIDS and Hepatitis virus’ can be extremely contagious, there is a period where they cannot be detected even using the latest examination techniques.
+
+エイズウイルスなどの感染に不安がある時に検査目的で献血をされると、検査で検出できない期間だった場合、患者さんにウイルスを感染させてしまう可能性があります。
+If there are concerns about things like the aids virus when your blood donation is examined, and it was the period where it couldn’t be detected, it’s possible to accidentally pass the virus onto patients.
+
+エイズ検査施設
+Aids examination facility
