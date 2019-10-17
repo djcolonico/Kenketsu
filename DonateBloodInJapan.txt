@@ -348,3 +348,20 @@ If there are concerns about things like the aids virus when your blood donation 
 
 エイズ検査施設
 Aids examination facility
+
+// double check translation
+エイズ検査(けんさ)をご希望(きぼう)の方(かた)は最寄(もよ)りの保健所(ほけんじょ)にお問合(といあわ)せください。
+Those who wish to know the results of an aids examination, please enquire at your nearest healthcare centre.
+
+保健所(ほけんじょ)ではHIV検査(けんさ)を匿名(とくめい)、無料(むりょう)で受(う)けることができます。
+At a healthcare centre you can take a HIV examination anonymously for free.
+
+「HIV検査相談(けんさそうだん)マップ」（http://www.hivkensa.com）に、保健所(ほけんじょ)などの検査施設情報(けんさしせつじょうほう)が掲載(けいさい)されています。 
+On the HIV testing HIV/AIDS Counseling Map (http://www.hivkensa.com) site you can find information published from healthcare centre testing facilities.
+
+HIV検査相談(けんさそうだん)マップ(まっぷ)
+On the HIV testing HIV/AIDS Counseling Map
+
+ご協力(きょうりょく)ください
+Please cooperate
+
