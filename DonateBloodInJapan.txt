@@ -1,5 +1,4 @@
-How to donate blood in Japan (translation of blood donation forms)
-
+Japanese Blood Donation Forms Translation!
 お願(ねが)い！
 Please!
 
@@ -365,3 +364,16 @@ On the HIV testing HIV/AIDS Counseling Map
 ご協力(きょうりょく)ください
 Please cooperate
 
+献血後(けんけつあと)、健康診断(けんこうしんだん)や医療機関(いりょうきかん)などで肝炎等(かんえんなど)と診断(しんだん)された場合(ばあい)、またそのほかの病気(びょうき)や感染症(かんせんしょう)にかかっているとわかった場合(ばあい)は、血液(けつえき)センターまでご連絡(れんらく)ください。
+After your blood donation, if you’re diagnosed with having a disease like hepatitis through a physical or medical examination, or you know you have another illness or infectious disease, please contact a blood centre.
+
+// double check translation
+輸血(ゆけつ)を受(う)けられた患者(かんじゃ)さんについて感染症(かんせんしょう)などの報告(ほうこく)があった場合(ばあい)、その原因調査(げんいんちょうさ)を行(おこな)うため、また、献血者(けんけつもの)ご自身(じしん)の健康管理(けんこうかんり)のため、検査用血液(けんさようけつえき)の採血(さいけつ)を再度お願いしています。
+If information is released about things like infectious diseases for patients who have received blood transfusions, and it’s about investigating the root cause of those diseases, or about the healthcare of blood donors, please go get a blood test to examine your blood again.
+
+// double check translation
+献血(けんけつ)された方(かた)にコールバック用紙(ようし)「今一度(いまいちど)、ご確認(かくにん)をお願(ねが)いします！」という印刷物(いんさつぶつ)をお渡(わた)しします。
+For people who have donated blood you’ll be handed a printed callback form called “Please confirm one more time!”.
+
+こちらの記載(きさい)に関(かん)して、思(おも)い当(あ)たる内容(ないよう)があった場合(ばあい)は、必(かなら)ず献血当日中(けんけつとうじつちゅう)にコールバック用紙(ようし)「今一度(いまいちたび)、ご確認(かくにん)をお願(ねが)いします！」に記載(きさい)されている電話番号(でんわばんごう)へお電話(でんわ)ください。
+Regarding this document, if you think of think of something related to the contents, without fail during the day of your donation, please call the number mentioned on the “Please confirm one more time!” callback form.
